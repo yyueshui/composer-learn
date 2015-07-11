@@ -14,4 +14,9 @@ class Focus
 	{
 		echo "This is Ford Focus!<br />";
 	}
+
+	public static final function aaa()
+	{
+		return 'aa';
+	}
 }
